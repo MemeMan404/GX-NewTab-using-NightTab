@@ -1,4 +1,4 @@
-# GX-theme-with-NightTab
+# GX-theme-using-NightTab
 Simple OperaGX style Newtab using the Nighttab extention
 
 NightTab Extention:
