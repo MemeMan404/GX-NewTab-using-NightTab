@@ -4,6 +4,7 @@ Simple OperaGX style Newtab using the Nighttab extention
 NightTab Extention:
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/nighttab/
+
 Chrome: https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki?hl=en-GB
 
 Go To 
