@@ -1,7 +1,7 @@
-# GX-theme-using-NightTab
-Simple OperaGX style Newtab using the Nighttab extention
+# OperaGX-style New Tab using NightTab extension
+Simple OperaGX style Newtab using the Nighttab extension
 
-NightTab Extention:
+NightTab Extension:
 
 Firefox: https://addons.mozilla.org/en-US/firefox/addon/nighttab/
 
