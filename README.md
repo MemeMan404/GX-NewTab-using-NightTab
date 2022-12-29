@@ -9,4 +9,4 @@ Chrome: https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcoh
 
 Go To 
 Settings > Data > Restore > Import from file 
-and import the .json file included (or Import from clipboard if you want to copy and paste)
+and import the .json file included.
